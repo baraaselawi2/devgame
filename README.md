@@ -74,3 +74,9 @@ builder.Services.AddDbContext<ModelContext>(options =>
 "ConnectionStrings": {
   "DefaultConnection": "DATA SOURCE=localhost:1521/orcl;USER ID=C##DEV_GAME_USER;PASSWORD=12345aA@;"
 }
+
+
+video how the project works
+
+https://github.com/user-attachments/assets/ef2dd2f5-0bbb-4eeb-8d8d-f2043d01b22c
+
